@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 new file creation error!!!!!
 
 new file buying worest situation!!!!!!
 
+||||||| parent of 5245a3f... love
+new file
+=======
+new file creation error!!!!!
+>>>>>>> 5245a3f... love
