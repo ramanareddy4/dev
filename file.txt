@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 new file creation error!!!!!
 
 new file buying worest situation!!!!!!
@@ -8,3 +9,11 @@ new file
 =======
 new file creation error!!!!!
 >>>>>>> 5245a3f... love
+||||||| merged common ancestors
+new file
+=======
+new file creation error!!!!!
+
+new file buying worest situation!!!!!!
+
+>>>>>>> origin
