@@ -1,1 +1,25 @@
+<<<<<<< HEAD
 new file creation error!!!!!new file creation error!!!!!new file creation error!!!!!new file creation error!!!!!
+||||||| merged common ancestors
+new file
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+new file creation error!!!!!
+
+new file buying worest situation!!!!!!
+
+||||||| parent of 5245a3f... love
+new file
+=======
+new file creation error!!!!!
+>>>>>>> 5245a3f... love
+||||||| merged common ancestors
+new file
+=======
+new file creation error!!!!!
+
+new file buying worest situation!!!!!!
+
+>>>>>>> origin
+>>>>>>> 2e880174ed0b44780c4749c9d9bfdbe3f94d6bbf
