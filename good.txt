@@ -1,9 +1,7 @@
 <<<<<<< HEAD
 Good Afternoon!!!!!!!!!!!!!!!!!!!!!!!!!!11
-||||||| merged common ancestors
-=======
 https://github.com/ramanareddy4/dev.git
 https://github.com/ramanareddy4/dev.git
 https://github.com/ramanareddy4/dev.git
 https://github.com/ramanareddy4/dev.git
->>>>>>> e4f11ab0906de8992f5421b6881f03ebc8166acc
+
