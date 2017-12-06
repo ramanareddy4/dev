@@ -2,4 +2,6 @@
 FROM UBUNTU
 RUN apt-get update
 RUN apt-get install apache2
+RUN mkdir /new \ && touch a b c.txt
+
 
