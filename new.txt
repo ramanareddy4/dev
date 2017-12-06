@@ -1,1 +1,7 @@
-my first branch!!!!!!
+# new docker image creation
+FROM UBUNTU
+RUN apt-get update
+RUN apt-get install apache2
+ENV $PATH=/ust/bin/apache2:$PATH\
+RUN mkdir /devlop/new
+RUN touch rama.txt
